@@ -5,6 +5,8 @@
 # DO: Change the seed from a number to a fraction 0-1 which is scaled to image rows and columns
 # DO: Enumerate teh word based measures.
 
+# Making a change to Segmentors.py to show how pull requests work in a video. 
+
 from collections import OrderedDict
 import sys
 import logging
